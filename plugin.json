@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "geogebra-teaching",
+  "version": "1.0.0",
+  "description": "GeoGebra 物理教学作图、三维空间感、数学验证与评审流程。仅含技能说明，不提供额外浏览器或账户权限。"
+}

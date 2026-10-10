@@ -1,0 +1,4 @@
+interface:
+  display_name: "GeoGebra 物理作图"
+  short_description: "从公式到可审核的二维、三维教学图和动画"
+  default_prompt: "请使用 $geogebra-physics-diagrams，根据我的自然语言和公式生成 GeoGebra 图，实际验证后给我审核。"
